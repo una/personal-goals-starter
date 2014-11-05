@@ -1,3 +1,5 @@
-- [Eloquent Javascript](http://eloquentjavascript.net/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
+# Books to Read
+
+[ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+[ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
+[ ] That Book That I Have a Physical Copy of Counts, Too

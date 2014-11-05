@@ -1,2 +1,4 @@
-### Angular.js
-- [ ] [Angular 2.0](https://docs.google.com/presentation/d/1XQP0_NTzCUcFweauLlkZpbbhNVYbYy156oD--KLmXsk/preview?sle=true#slide=id.p)
+# Slides From Talks I Want to Go Through
+
+### Category
+- [ ] [A Really Great Talk by My Favorite Person](http://google.com)

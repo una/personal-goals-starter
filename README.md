@@ -21,16 +21,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Play with puppies
 - [ ] Watch 2 videos from my content list about ______
 - [ ] Write a blog post
-- [ ] Continue learning about plants
-- [ ] Set up a meeting with Mario
+- [ ] Continue learning about narwhals
 - [ ] Create slides for my talk about music
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Read a book
-- [ ] Teach my dog how to bring me beer
+- [x] Create a website for my dog
+- [ ] Teach my dog how to fetch me beer
 - [ ] Build a castle out of cardboard
 - [ ] Submit a proposal for a thing
+- [ ] Come up with a new side project
 
 ### Backlog: Side Projects :)
 - [ ] Work on [my cool project I forgot about](http://google.com)
