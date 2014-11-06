@@ -1,4 +1,4 @@
 # Blog Posts to Read
 
-### Cool Category
-- [ ] [Blog Title](http://unakravets.com)
+### Productivity
+- [ ] [Open Sourcing Your Personal Goals](http://una.github.io/personal-goals-guide/)
