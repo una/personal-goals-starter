@@ -1,5 +1,5 @@
 # Courses I Want to Attend
 
-- [HTML, CSS and JavaScript][1]
+- [Course 1][1]
 
-[1]: https://www.coursera.org/learn/html-css-javascript/
+[1]: https://google.com
