@@ -1,7 +1,7 @@
 # Persons I Admire
 
-- [bozho][1]
-- [SLaks][2]
+- [Person 1][1]
+- [Person 2][2]
 
-[1]: http://techblog.bozho.net/
-[2]: http://slaks.net/
+[1]: http://google.com
+[2]: http://google.com
