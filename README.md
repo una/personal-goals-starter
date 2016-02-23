@@ -24,7 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Continue learning about narwhals
 - [ ] Create slides for my talk about music
 - [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
 ### Things I'll Do This Month: November 2014
 - [ ] Read a book
